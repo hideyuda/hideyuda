@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hidenari-yuda
 - 👀 I’m interested in developing web-app
-- 🌱 I’m currently learning golang 
+- 🌱 I’m currently learning golang and JavaScript
 - 📫 How to reach me: yhide327@gmail.com
 
 <!---
