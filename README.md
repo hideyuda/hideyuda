@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hidenari-yuda
 - 👀 I’m interested in developing web-app
 - 🌱 I’m currently learning golang and react/next.js
-- 📫 How to reach me: yhide327@gmail.com or @hidenari_y on Twitter
+- 📫 How to reach me: @hidenari_y on Twitter
 
 <!---
 hidenari-yuda/hidenari-yuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
