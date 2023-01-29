@@ -2,7 +2,7 @@
 - 👀 I'm into golang and gcp now.
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidenari-yuda&theme=solarized_dark)(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidenari-yuda&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidenari-yuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidenari-yuda&theme=solarized_dark)
 
 <!-- [![image](https://user-images.githubusercontent.com/106872451/215306550-63f811ef-624f-44ea-ae7c-9d34266bb5ec.png)] -->
 
