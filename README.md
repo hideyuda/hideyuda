@@ -15,7 +15,7 @@ Contact me by:
 - Github: [@hideyuda](https://github.com/hideyuda)
 - Facebook: [hideyuda](https://www.facebook.com/hideyuda)
 - Linkedin: [hidenari-yuda](https://www.linkedin.com/in/hidenari-yuda-212076266/)
-- X: [hideyuda_jp](https://x.com/hideyuda_jp/)
+- X: [hideyuda_jp](https://x.com/hideyudajp/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuda&theme=solarized_dark)
 
