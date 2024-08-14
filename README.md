@@ -7,15 +7,12 @@ My current research interests lie primarily in understanding and improving conti
 I'm also learning web development and building machine learning softwares and systems.
 
 
-## Contact
-
-Contact me by:
-
+## Links
 - Email: [hidenariyuda@gmail.com](mailto:hidenariyuda@gmail.com)
-- Github: [@hideyuda](https://github.com/hideyuda)
+- Note: [hideyuda](https://note.com/hideyuda/)
+- Medium: [@hideyuda](https://medium.com/@hideyuda)
 - Facebook: [hideyuda](https://www.facebook.com/hideyuda)
 - Linkedin: [hidenari-yuda](https://www.linkedin.com/in/hidenari-yuda-212076266/)
-- X: [hideyudajp](https://x.com/hideyudajp/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuda&theme=solarized_dark)
 
