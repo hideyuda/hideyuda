@@ -1,11 +1,5 @@
-Hey there! I am a student at Doshisha University in Kyoto, Japan.
-
-I'm trying to find a balance between research and engineering.
-
-My current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. I am also interested in vision-language and video models.
-
-I'm also learning web development and building machine learning softwares and systems.
-
+## Languages & Services
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,go,python,nextjs,docker,gcp,github,git,mysql)](https://skillicons.dev)
 
 ## Links
 - Email: [hidenariyuda@gmail.com](mailto:hidenariyuda@gmail.com)
