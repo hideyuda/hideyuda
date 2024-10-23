@@ -1,7 +1,11 @@
-## Links
-- Email: [hidenariyuda@gmail.com](mailto:hidenariyuda@gmail.com)
+## Site
+- Site: [hideyuda](https://spaceai.jp/hideyuda/)
+
+## Tech Blog
 - Note: [hideyuda](https://note.com/hideyuda/)
 - Medium: [@hideyuda](https://medium.com/@hideyuda)
+
+## SNS
 - Facebook: [hideyuda](https://www.facebook.com/hideyuda)
 - Linkedin: [hidenari-yuda](https://www.linkedin.com/in/hidenari-yuda-212076266/)
 - X(ja):[hideyudajp](https://x.com/hideyudajp)
