@@ -1,5 +1,8 @@
+## About Me In Japanese
+- Slide: [aboutme](https://docs.google.com/presentation/d/1FgKZEIrEXmmQzAU-ZXmPiYFbVX2Bh3nj7MXuzL2AjnQ/edit?usp=sharing)
+
 ## Site
-- Site: [hideyuda](https://spaceai.jp/hideyuda/)
+- Site: [spaceai.jp/hideyuda](https://spaceai.jp/hideyuda/)
 
 ## Tech Blog
 - Note: [hideyuda](https://note.com/hideyuda/)
