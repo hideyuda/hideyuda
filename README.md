@@ -23,3 +23,5 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuda&theme=solarized_dark)
+
+※2022~こちらのアカウントに移行しました！
