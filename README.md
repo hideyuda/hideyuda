@@ -19,7 +19,7 @@
 - X(en):[hidenariyuda](https://x.com/hidenariyuda)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,go,python,nextjs,docker,gcp,github,git,mysql)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,ts,react,go,python,nextjs,docker,gcp,github,git,mysql](https://skillicons.dev/icons?i=js,ts,react,go,python,nextjs,docker,gcp,github,git,mysql,postgresql,django,supabase,aws))](https://skillicons.dev)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuda&theme=solarized_dark)
