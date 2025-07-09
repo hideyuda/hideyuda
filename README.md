@@ -1,18 +1,16 @@
+## Hidenari Yuda / 湯田英也
+
 ## My GitHub Project
 - Space AI: [github](https://github.com/spaceaiinc)
-
-
-## About Me In Japanese
-- Slide: [aboutme](https://docs.google.com/presentation/d/1FgKZEIrEXmmQzAU-ZXmPiYFbVX2Bh3nj7MXuzL2AjnQ/edit?usp=sharing)
 
 ## Site
 - Site: [spaceai.jp/hideyuda](https://spaceai.jp/hideyuda/)
 
 ## Tech Blog
-- Note: [hideyuda](https://note.com/hideyuda/)
-- Medium: [@hideyuda](https://medium.com/@hideyuda)
+- Note(ja): [hideyuda](https://note.com/hideyuda/)
+- Medium(en): [@hideyuda](https://medium.com/@hideyuda)
 
-## SNS
+## Social
 - Facebook: [hideyuda](https://www.facebook.com/hideyuda)
 - Linkedin: [hidenari-yuda](https://www.linkedin.com/in/hidenari-yuda-212076266/)
 - X(ja):[hideyudajp](https://x.com/hideyudajp)
