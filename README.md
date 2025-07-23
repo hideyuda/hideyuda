@@ -1,7 +1,10 @@
 ## Hidenari Yuda / 湯田英也
 
-## My GitHub Project
+## My Project
 - Space AI: [github](https://github.com/spaceaiinc)
+- Space AI HP: [HP](https://spaceai.jp)
+- Linked: - [App](https://linked.spaceai.jp)
+- Scoutbird: - [App](https://scoutbird.vercel.app.com)
 
 ## Site
 - Site: [spaceai.jp/hideyuda](https://spaceai.jp/hideyuda/)
