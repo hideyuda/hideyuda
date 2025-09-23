@@ -1,11 +1,10 @@
 ## Hidenari Yuda / 湯田英也
 
 ## My Projects
-- Space AI: [Corporate](https://spaceai.jp)
-- Space AI GitHub: [github](https://github.com/spaceaiinc)
+- Sakura AI: [Corporate](https://sakuraai.co)
 
 ## Site
-- Site: [spaceai.jp/hideyuda](https://spaceai.jp/hideyuda/)
+- Site: [sakuraai.co/hideyuda](https://sakuraai.co/hideyuda/)
 
 ## Tech Blog
 - Note(ja): [hideyuda](https://note.com/hideyuda/)
