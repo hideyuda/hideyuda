@@ -1,24 +1,10 @@
 ## Hidenari Yuda / 湯田英也
 
 ## My Projects
-- Sakura AI: [Corporate](https://sakuraai.co)
-
-## Site
-- Site: [sakuraai.co/hideyuda](https://sakuraai.co/hideyuda/)
-
-## Tech Blog
-- Note(ja): [hideyuda](https://note.com/hideyuda/)
-- Medium(en): [@hideyuda](https://medium.com/@hideyuda)
-
-## Social
-- Facebook: [hideyuda](https://www.facebook.com/hideyuda)
-- Linkedin: [hidenari-yuda](https://www.linkedin.com/in/hidenari-yuda-212076266/)
-- X(ja):[hideyudajp](https://x.com/hideyudajp)
-- X(en):[hidenariyuda](https://x.com/hidenariyuda)
+- [Sakura AI](https://sakuraai.co)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,go,python,nextjs,docker,gcp,github,git,mysql,postgresql,django,supabase)](https://skillicons.dev)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuda&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuda&theme=solarized_dark)
 
